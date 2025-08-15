@@ -1,0 +1,26 @@
+* {
+    background-color: aquamarine;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 200px;
+    width: 600px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 38px;
+    color: cornsilk;
+}
+
+ul {
+    display: block;
+    float: left;
+}
+
+li {
+    position: sticky;
+    margin: 10px;
+}
